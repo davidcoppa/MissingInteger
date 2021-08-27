@@ -1,0 +1,13 @@
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.exe
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.deps.json
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.runtimeconfig.json
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.runtimeconfig.dev.json
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.dll
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\bin\Debug\netcoreapp3.1\MissingInteger.pdb
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.csproj.AssemblyReference.cache
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.AssemblyInfoInputs.cache
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.AssemblyInfo.cs
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.csproj.CoreCompileInputs.cache
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.dll
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.pdb
+D:\Dropbox\david\code\GitHub\C#\MissingInteger\MissingInteger\obj\Debug\netcoreapp3.1\MissingInteger.genruntimeconfig.cache
